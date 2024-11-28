@@ -5,13 +5,7 @@
 - 支持最大40GB的大型镜像<br>
 - 使用阿里云的官方线路，速度快<br>
 
-视频教程：https://www.bilibili.com/video/BV1Zn4y19743/
-
-作者：**[技术爬爬虾](https://github.com/tech-shrimp/me)**<br>
-B站，抖音，Youtube全网同名，转载请注明作者<br>
-
 ## 使用方式
-
 
 ### 配置阿里云
 登录阿里云容器镜像服务<br>
@@ -76,5 +70,5 @@ xiaoyaliu/alist
 
 ### 定时执行
 修改/.github/workflows/docker.yaml文件
-添加 schedule即可定时执行(此处cron使用UTC时区)
+添加 schedule 即可定时执行(此处cron使用UTC时区)
 ![](doc/定时执行.png)
