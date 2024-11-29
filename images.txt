@@ -2,3 +2,4 @@ nginx
 influxdb:2.7
 emqx:5.8
 grafana/grafana
+gitlab/gitlab-runner
