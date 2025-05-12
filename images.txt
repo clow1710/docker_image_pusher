@@ -4,3 +4,4 @@ grafana/grafana
 gitlab/gitlab-runner
 influxdb:3-core
 postgis/postgis
+tiangolo/nginx-rtmp
